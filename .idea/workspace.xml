@@ -3,36 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9fda7688-a758-4d6d-b13c-adaeea50552b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pic/disOrder/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_reg/get_pic.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_reg/get_pic.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,8 +20,8 @@
       <file leaf-file-name="get_pic.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/py_reg/get_pic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="375">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#23#38#0" expanded="true" />
               </folding>
@@ -79,7 +50,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="310" />
     <option name="y" value="135" />
     <option name="width" value="1750" />
@@ -168,16 +139,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -200,10 +172,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://D:/Python/venv/Lib/site-packages/image/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/py_reg/get_pic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="375">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#23#38#0" expanded="true" />
           </folding>
