@@ -2,6 +2,8 @@
 import requests
 import os
 import Pillow
+
+
 code_url = 'http://202.193.80.58:81/academic/getCaptcha.do?0.23611265529353553'  # 验证码URL
 pic_url = 'C:/Users/dell/Desktop/Verification-code-identification/pic/'  # 验证码路径
 pic_order_url = 'C:/Users/dell/Desktop/Verification-code-identification/pic/inOrder'  # 有序验证码路径
@@ -24,6 +26,5 @@ def read_captcha(path):
 
 
 if __name__=='__main__':
-
-
+    pass
 
